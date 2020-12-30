@@ -1,5 +1,5 @@
 # DSPSO
-Differential mutation and novel social learning particle swarm optimization algorithm (DSPSO) is proposed by Team Prof. Zhang. The latest codes were updated on December 30, 2020. 
+Differential mutation and novel social learning particle swarm optimization algorithm (DSPSO) is proposed by Team Prof. Zhang. The latest codes are updated on December 30, 2020. 
 
 # Reference
 If you use the codes, please cite the reference below.
