@@ -23,4 +23,4 @@ The codes of HBBOS are available at https://github.com/kangzhai/HBBOS.
 
 We also recommend our Chinese monograph as below, which describes in detail various improved biogeography-based optimization algorithms and their applications to image segmentation.
 
-张新明, 康强. 生物地理学优化算法的改进及其在图像分割上的应用. 科学出版社, 2019.06. ISBN: 978-7-03-060381-4
+张新明, 康强. 生物地理学优化算法的改进及其在图像分割上的应用. 科学出版社, 2019. ISBN: 978-7-03-060381-4
