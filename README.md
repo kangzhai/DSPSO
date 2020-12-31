@@ -27,6 +27,12 @@ Xinming Zhang, Qiang Kang, Xia Wang. Hybrid biogeography-based optimization with
 
 The codes of HBBOS are available at https://github.com/kangzhai/HBBOS.
 
+RSMGWO:
+
+Xinming Zhang, Xia Wang, Haiyan Chen, Doudou Wang, Zihao Fu. Improved GWO for large-scale function optimization and MLP optimization in cancer identification. Neural Computing and Applications, 2020, 32: 1305–1325. https://doi.org/10.1007/s00521-019-04483-4
+
+The codes of RSMGWO are available at https://github.com/kangzhai/RSMGWO.
+
 We also recommend our Chinese monograph as below, which describes in detail various improved biogeography-based optimization algorithms and their applications to image segmentation.
 
 张新明, 康强. 生物地理学优化算法的改进及其在图像分割上的应用. 科学出版社, 2019. ISBN: 978-7-03-060381-4
