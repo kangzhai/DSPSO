@@ -9,6 +9,12 @@ Xinming Zhang, Xia Wang, Qiang Kang, Jinfeng Cheng. Differential mutation and no
 # Others
 More related research of Team Prof. Zhang can be found below.
 
+EMBBO:
+
+Xinming Zhang, Qiang Kang, Qiang Tu, Jinfeng Cheng, Xia Wang. Efficient and merged biogeography-based optimization algorithm for global optimization problems. Soft Computing, 2019, 23: 4483–4502. https://doi.org/10.1007/s00500-018-3113-1
+
+The codes of EMBBO are available at https://github.com/kangzhai/EMBBO.
+
 HBBOG:
 
 Xinming Zhang, Qiang Kang, Jinfeng Cheng, Xia Wang. A novel hybrid algorithm based on Biogeography-Based Optimization and Grey Wolf Optimizer. Applied Soft Computing, 2018, 67: 197-214. https://doi.org/10.1016/j.asoc.2018.02.049
